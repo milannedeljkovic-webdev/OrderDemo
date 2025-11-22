@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.log
+.idea/
+tests/**/bin/
+tests/**/obj/
+**/*.db
+**/*.sqlite
+.DS_Store
+.env
+.env.*
+orderprocessing.*.db
